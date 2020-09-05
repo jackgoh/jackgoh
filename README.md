@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<a href="https://lon9.github.io">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=jackgoh&count_private=true&show_icons=true&theme=dark" />
+</a>
+<a href="https://lon9.github.io">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackgoh&theme=dark&hide=html" />
+</a>
+
 <!--
 **jackgoh/jackgoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
